@@ -1,0 +1,17 @@
+D:\Download\Visual Studio Codes\Battleship\bin\Debug\net6.0\Battleship.exe
+D:\Download\Visual Studio Codes\Battleship\bin\Debug\net6.0\Battleship.deps.json
+D:\Download\Visual Studio Codes\Battleship\bin\Debug\net6.0\Battleship.runtimeconfig.json
+D:\Download\Visual Studio Codes\Battleship\bin\Debug\net6.0\Battleship.dll
+D:\Download\Visual Studio Codes\Battleship\bin\Debug\net6.0\ref\Battleship.dll
+D:\Download\Visual Studio Codes\Battleship\bin\Debug\net6.0\Battleship.pdb
+D:\Download\Visual Studio Codes\Battleship\bin\Debug\net6.0\DryIoc.dll
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.csproj.AssemblyReference.cache
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.AssemblyInfoInputs.cache
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.AssemblyInfo.cs
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.csproj.CoreCompileInputs.cache
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.csproj.CopyComplete
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.dll
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\ref\Battleship.dll
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.pdb
+D:\Download\Visual Studio Codes\Battleship\obj\Debug\net6.0\Battleship.genruntimeconfig.cache
